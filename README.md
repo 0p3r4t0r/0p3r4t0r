@@ -1,4 +1,4 @@
-### Hi there 👋
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=0p3r4t0r&show_icons=true&theme=dark)](https://github.com/0p3r4t0r/github-readme-stats)
 
 <!--
 **0p3r4t0r/0p3r4t0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
